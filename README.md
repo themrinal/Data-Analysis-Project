@@ -33,9 +33,9 @@ The Jupyter Notebook walks through the entire pipeline of data analysis from imp
 The dataset used is published by the **National Crime Records Bureau (NCRB), Ministry of Home Affairs, India**, and contains detailed records of reported crimes across Indian states and union territories for the year 2020.
 
 Key features:
-- Crime statistics by category (e.g., murder, theft, cybercrime)
+- Crime statistics by age
 - State/UT-wise distribution
-- Gender and area-based breakdowns
+- Gender based breakdowns
 
 > **Source:** [ncrb.gov.in](https://ncrb.gov.in)
 
@@ -59,6 +59,7 @@ Required Python libraries:
 You can install them via:
 pip install pandas numpy matplotlib seaborn openpyxl
 
+---
 
 ## 🛠 Installation
 
@@ -73,6 +74,8 @@ pip install pandas numpy matplotlib seaborn openpyxl
   **3. Install dependencies:**
   pip install -r requirements.txt
 
+---
+
 ## 🚀 How to Run
 
   **1. Launch Jupyter Notebook:**
@@ -83,6 +86,7 @@ pip install pandas numpy matplotlib seaborn openpyxl
 
   **3. Run each cell step-by-step to follow the analysis.**
 
+---
 
 ## 📊 Tools and Libraries Used
 - Python – Core programming language
