@@ -96,4 +96,10 @@ pip install pandas numpy matplotlib seaborn openpyxl
 - Matplotlib – Plotting and visualizations
 - Seaborn – Statistical data visualization
 
+---
 
+### Screenshots
+
+![image](https://github.com/user-attachments/assets/c8c2ba43-ea80-4bd3-a918-4d2786c68056)
+
+![image](https://github.com/user-attachments/assets/c3fe0f4f-45e9-45f9-9d37-539d76d38e7e)
