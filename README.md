@@ -12,12 +12,11 @@ A Python-based data analysis project using **Jupyter Notebook** to explore the *
 - [Installation](#installation)
 - [How to Run](#how-to-run)
 - [Tools & Libraries Used](#tools--libraries-used)
-- [Screenshots (optional)](#screenshots-optional)
-- [License](#license)
+
 
 ---
 
-## 📈 Project Overview
+# 📈 Project Overview
 
 This project analyzes crime trends across India using official NCRB data from 2020. The goal is to:
 - Clean and preprocess real-world data
@@ -29,7 +28,7 @@ The Jupyter Notebook walks through the entire pipeline of data analysis from imp
 
 ---
 
-## 🗂 Dataset Description
+# 🗂 Dataset Description
 
 The dataset used is published by the **National Crime Records Bureau (NCRB), Ministry of Home Affairs, India**, and contains detailed records of reported crimes across Indian states and union territories for the year 2020.
 
@@ -85,7 +84,7 @@ pip install pandas numpy matplotlib seaborn openpyxl
   **3. Run each cell step-by-step to follow the analysis.**
 
 
-## 📊 Tools & Libraries Used
+## 📊 Tools and Libraries Used
 - Python – Core programming language
 - Jupyter Notebook – Interactive coding environment
 - Pandas – Data manipulation and analysis
